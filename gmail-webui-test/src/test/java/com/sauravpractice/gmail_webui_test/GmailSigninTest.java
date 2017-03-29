@@ -40,8 +40,6 @@ public class GmailSigninTest {
 
 	public void tearDown() {
 
-		
-
 	}
 
 }
